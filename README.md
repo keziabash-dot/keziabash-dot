@@ -1,9 +1,8 @@
-### `> Olá 👋, me chamo [Kezia Chianca](https://www.linkedin.com/in/kezia-chianca-ba161b268/)`
+### `> Olá 👋, me chamo [Kezia](https://www.linkedin.com/in/kezia-chianca-ba161b268/)`
 
 `「 Graduanda em Ciência da Computação na UNIP, em São Paulo. Sempre gostei de exatas, tecnologia e jogos. Hoje sigo me aprimorando na área de Dados 」`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kezia-chianca-ba161b268/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keziabash-dot)
 
 # Sobre mim
 
@@ -11,13 +10,9 @@
 
 ❤️ Adoro aprender novas ferramentas e tecnologias
 
-🔧 Também curto hardware e jogos: comecei com um curso de hardware no SENAC, usando Tinkercad
+🔧 Também gosto de hardware e jogos: comecei com um curso de hardware no SENAC, usando Tinkercad
 
-🌱 Atualmente me aprofundando em Power BI, Databricks e Snowflake
-
-📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/kezia-chianca-ba161b268/)
-
-💬 Me pergunte qualquer coisa [aqui](https://github.com/keziabash-dot/keziabash-dot/issues)
+🌱 Aprofundando meus conhecimentos em Power BI, Databricks e Snowflake
 
 ## Ferramentas que utilizo
 
@@ -28,9 +23,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
-
-## Em estudo
-
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&labelColor=black&logo=snowflake&logoColor=29B5E8)
 
 ## Projetos em destaque
