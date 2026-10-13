@@ -1,38 +1,35 @@
-# Olá, eu sou a Kezia Chianca 👋
+> Olá 👋, me chamo [Kezia Chianca](https://www.linkedin.com/in/kezia-chianca-ba161b268/)
 
-Graduanda em **Ciência da Computação** na **UNIP**, em São Paulo, com foco em **Dados**.
+「 Graduanda em Ciência da Computação na UNIP, em São Paulo. Sempre gostei de exatas e tecnologia e hoje sigo na área de Dados. 」
 
-## Sobre mim
+LinkedIn
 
-Sempre tive afinidade com as áreas de exatas e tecnologia. Meu primeiro contato prático foi em um curso do SENAC de hardware, em que trabalhei com Tinkercad. Hoje sigo na área de **Dados**, onde mais me identifico, e uso a graduação para construir uma base sólida e desenvolver projetos.
+Sobre mim
 
-## Áreas de interesse
+🎓 Cursando Ciência da Computação na UNIP
 
-- Dados (análise, visualização e engenharia de dados)
-- Hardware
-- Jogos
+📊 Foco em Dados: análise, visualização e engenharia de dados
 
-## Tecnologias e ferramentas
+🔧 Também me interesso por Hardware e Jogos. Meu primeiro contato prático com tecnologia foi em um curso de hardware do SENAC, usando Tinkercad
 
-**Utilizo:**
-- Python
-- SQL
-- Power BI
-- Databricks
-- Git
-- HTML e CSS
+🌱 Atualmente estudando Power BI, Databricks e Snowflake
 
-**Atualmente estudando:**
-- Aprofundamento em Power BI e Databricks
-- Snowflake
+📍 São Paulo, SP
 
-## Projetos
+Tecnologias que utilizo
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Calculadora-de-Emergia](https://github.com/keziabash-dot/Calculadora-de-Emergia) | Calculadora de emergia desenvolvida como trabalho acadêmico. | Python |
-| [api-pedidos](https://github.com/keziabash-dot/api-pedidos) | Atividade prática da disciplina de Desenvolvimento de Sistemas Distribuídos. | Python |
+Python SQL Power BI Databricks Git HTML5 CSS3
 
-## Contato
+Em estudo
 
-- LinkedIn: [Kezia Chianca](https://www.linkedin.com/in/kezia-chianca-ba161b268/)
+Snowflake
+
+Projetos
+
+Calculadora-de-Emergia api-pedidos
+
+Todos os repositórios
+
+Contato
+
+📫 Vamos conversar? Me encontre no LinkedIn.
