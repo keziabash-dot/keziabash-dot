@@ -1,39 +1,48 @@
 ```sql
 -- ==================================================
--- USER PROFILE: KEZIA CHIANCA
--- FIELD: COMPUTER SCIENCE | DATA ANALYTICS
+-- PROFILE: KEZIA CHIANCA
+-- ROLE: DATA PROFESSIONAL
+-- EDUCATION: COMPUTER SCIENCE | UNIP
+-- FOCUS: DATA ANALYTICS & BUSINESS INTELLIGENCE
 -- ==================================================
-
-CREATE PROFILE kezia_chianca AS (
-    education = 'Computer Science @ UNIP',
-    location  = 'São Paulo, Brazil',
-    interests = ARRAY[
-        'Data Analytics',
-        'Business Intelligence',
-        'Data Visualization',
-        'Data Engineering'
-    ],
-    currently_learning = ARRAY[
-        'Power BI',
-        'Databricks',
-        'Snowflake'
-    ]
-);
 ```
 
 # Kezia Chianca
 
-**Computer Science Student | Aspiring Data Professional**
+**Data Professional | Computer Science Student**
 
-Graduanda em Ciência da Computação pela Universidade Paulista (UNIP), interessada em explorar dados, identificar padrões e transformar informações em conhecimento.
+Profissional da área de dados e graduanda em Ciência da Computação pela Universidade Paulista (UNIP), em São Paulo. Tenho interesse em análise de dados, Business Intelligence e visualização de informações, buscando transformar dados em insights relevantes para a tomada de decisões.
 
-Atualmente, estou desenvolvendo minhas habilidades em análise de dados, Business Intelligence e plataformas de dados, enquanto amplio minha experiência com ferramentas e tecnologias da área.
+Estou sempre buscando ampliar meus conhecimentos em tecnologias de dados, desenvolver novas habilidades e aprimorar minha capacidade analítica.
 
 ---
 
-### TECH STACK
+## About Me
 
-**DATA & ANALYTICS**
+```python
+profile = {
+    "field": "Data Analytics",
+    "interests": [
+        "Business Intelligence",
+        "Data Visualization",
+        "Data Engineering"
+    ],
+    "currently_learning": [
+        "Power BI",
+        "Databricks",
+        "Snowflake"
+    ],
+    "background": [
+        "Computer Science",
+        "Technology",
+        "Hardware"
+    ]
+}
+```
+
+## Technical Skills
+
+**DATA ANALYTICS & BUSINESS INTELLIGENCE**
 
 ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -44,7 +53,7 @@ Atualmente, estou desenvolvendo minhas habilidades em análise de dados, Busines
 ![Databricks](https://img.shields.io/badge/Databricks-E65245?style=flat-square&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-**DEVELOPMENT**
+**DEVELOPMENT & VERSION CONTROL**
 
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -52,14 +61,13 @@ Atualmente, estou desenvolvendo minhas habilidades em análise de dados, Busines
 
 ---
 
-### CURRENT FOCUS
+## Current Focus
 
-```python
-learning = {
-    "business_intelligence": "Power BI",
-    "data_platforms": ["Databricks", "Snowflake"],
-    "goal": "Turn data into meaningful insights"
-}
+```sql
+SELECT
+    'Data Analytics' AS primary_focus,
+    'Business Intelligence' AS area_of_interest,
+    'Continuous Learning' AS professional_goal;
 ```
 
 ---
