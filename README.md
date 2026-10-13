@@ -1,4 +1,4 @@
-### `> Olá 👋, me chamo [Kezia](https://www.linkedin.com/in/kezia-chianca-ba161b268/)`
+### `> Olá 👋, me chamo Kezia`
 
 `「 Graduanda em Ciência da Computação na UNIP, em São Paulo. Sempre gostei de exatas, tecnologia e jogos. Hoje sigo me aprimorando na área de Dados 」`
 
