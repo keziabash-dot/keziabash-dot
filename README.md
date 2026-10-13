@@ -1,6 +1,6 @@
 ### `> Olá 👋, me chamo [Kezia Chianca](https://www.linkedin.com/in/kezia-chianca-ba161b268/)`
 
-`「 Graduanda em Ciência da Computação na UNIP, em São Paulo. Sempre gostei de exatas e tecnologia e hoje sigo na área de Dados, construindo uma base sólida e desenvolvendo projetos para crescer na carreira. 」`
+`「 Graduanda em Ciência da Computação na UNIP, em São Paulo. Sempre gostei de exatas, tecnologia e jogos. Hoje sigo me aprimorando na área de Dados 」`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kezia-chianca-ba161b268/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keziabash-dot)
