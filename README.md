@@ -1,33 +1,74 @@
-### `> Olá 👋, me chamo Kezia`
+```sql
+-- ==================================================
+-- USER PROFILE: KEZIA CHIANCA
+-- FIELD: COMPUTER SCIENCE | DATA ANALYTICS
+-- ==================================================
 
-`「 Graduanda em Ciência da Computação na UNIP, em São Paulo. Sempre gostei de exatas, tecnologia e jogos. Hoje sigo me aprimorando na área de Dados 」`
+CREATE PROFILE kezia_chianca AS (
+    education = 'Computer Science @ UNIP',
+    location  = 'São Paulo, Brazil',
+    interests = ARRAY[
+        'Data Analytics',
+        'Business Intelligence',
+        'Data Visualization',
+        'Data Engineering'
+    ],
+    currently_learning = ARRAY[
+        'Power BI',
+        'Databricks',
+        'Snowflake'
+    ]
+);
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kezia-chianca-ba161b268/)
+# Kezia Chianca
 
-# Sobre mim
+**Computer Science Student | Aspiring Data Professional**
 
-✌️ Gosto de trabalhar com dados e de ver as informações ganhando forma em análises e dashboards
+Graduanda em Ciência da Computação pela Universidade Paulista (UNIP), interessada em explorar dados, identificar padrões e transformar informações em conhecimento.
 
-❤️ Adoro aprender novas ferramentas e tecnologias
+Atualmente, estou desenvolvendo minhas habilidades em análise de dados, Business Intelligence e plataformas de dados, enquanto amplio minha experiência com ferramentas e tecnologias da área.
 
-🔧 Também gosto de hardware e jogos: comecei com um curso de hardware no SENAC, usando Tinkercad
+---
 
-🌱 Aprofundando meus conhecimentos em Power BI, Databricks e Snowflake
+### TECH STACK
 
-## Ferramentas que utilizo
+**DATA & ANALYTICS**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4479A1)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&labelColor=black&logo=powerbi&logoColor=F2C811)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&labelColor=black&logo=databricks&logoColor=FF3621)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&labelColor=black&logo=snowflake&logoColor=29B5E8)
+![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-D4AA00?style=flat-square&logo=powerbi&logoColor=white)
 
-## Projetos em destaque
+**DATA PLATFORMS**
 
-[![Calculadora-de-Emergia](https://github-readme-stats.vercel.app/api/pin/?username=keziabash-dot&repo=Calculadora-de-Emergia&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/keziabash-dot/Calculadora-de-Emergia)
-[![api-pedidos](https://github-readme-stats.vercel.app/api/pin/?username=keziabash-dot&repo=api-pedidos&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/keziabash-dot/api-pedidos)
+![Databricks](https://img.shields.io/badge/Databricks-E65245?style=flat-square&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-[![Todos os repositórios](https://img.shields.io/badge/-Todos%20os%20reposit%C3%B3rios-2962FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keziabash-dot?tab=repositories)
+**DEVELOPMENT**
+
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+### CURRENT FOCUS
+
+```python
+learning = {
+    "business_intelligence": "Power BI",
+    "data_platforms": ["Databricks", "Snowflake"],
+    "goal": "Turn data into meaningful insights"
+}
+```
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kezia-chianca-ba161b268/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/keziabash-dot?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-444444?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
